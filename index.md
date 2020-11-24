@@ -52,9 +52,12 @@ _1. Visualizing Mean Price_
 
 The Bronx is an incredible borough on it's own, but a borough is really only as much as the sum of its parts! Each member of our team explored the statistics of Airbnb in four individual Bronx neighborhoods: **Kingsbridge, Fordham, Allerton, and Concourse.** Please click through to deep dive into each team member's project!
 
-<div align="center"> 
+<div align="center"> <b>
 
-### FORDHAM
+FORDHAM
+
+</b> </div> 
+
 _by: Jessica Sparacio_
 
 ![A bustling intersection with views of storefronts, the elevated subway, and crowds. ](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
@@ -81,7 +84,7 @@ _by: Jason Wu_
 ![A housing development with views of residents, a group of apartment buildings, grassy lawns, and trees.](allertonforreal.jpg)
 
 [Click here to learn more about Allerton!]()
-</div>
+
 
 
 
