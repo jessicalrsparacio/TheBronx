@@ -43,7 +43,13 @@ Now that we had the preliminary price information, we wanted to visualize this d
 
 _1. Visualizing Mean Price_
 
+![Mean Price of All Boroughs](meanPriceBoroughs.png) 
+![Mean Price of All Bronx Neighborhoods](meanPriceBronxNeighborhoods.png) 
+![Mean Price of Our Bronx Neighborhoods](meanPriceMyBronxNeighborhoods.png) 
+
 _2. Price Distribution Exploration_
+
+![Box Plots of Price Distribution](3PriceBoxplotsNOZEROS.png)
 
 _3. Correlational Exploration_
 
@@ -53,7 +59,13 @@ prices in the Bronx were generally lower, but _**why?**_
 
   - Number of Host's Other listings _vs._ Price
   
+  ![Scatter Plot of Price Distribution]()
+  ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png)
+  
   - Minimum Nights _vs._ Price
+  
+  ![Scatter Plot of Minimum Nights Bronx](PriceVsMinNightsScatterplot.png)
+  ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png)
   
   - Room Type _vs._ Price
 
