@@ -63,18 +63,21 @@ _by: Jessica Sparacio_
 
 ### KINGSBRIDGE
 _by: Sowjana Sritharasarma_
+
 ![A giant, castle-like building which takes up the entire block, next to a nearly-empty street, with parked cars.](KingsbridgeArmoryBetter.jpg)
 
 [Click here to learn more about Kingsbridge!]()
 
 ### CONCOURSE
 _by: Shayaan Mohammed_
+
 ![A giant, Pantheon-like court bulding standing alone on a grassy lawn.](concourse.jpg)
 
 [Click here to learn more about Concourse!]()
 
 ### ALLERTON
 _by: Jason Wu_
+
 ![A housing development with views of residents, a group of apartment buildings, grassy lawns, and trees.](allertonforreal.jpg)
 
 [Click here to learn more about Allerton!]()
