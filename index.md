@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to The Bronx
 
-You can use the [editor on GitHub](https://github.com/jessicalrsparacio/TheBronx/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+The Bronx. Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## **_Our Project_**
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jessicalrsparacio/TheBronx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## **_The Breakdown_**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Bronx is an incredible borough on it's own, but a bourough is really only as much as the sum of its parts! Each member of our team explored the statistics of Airbnb in four individual Bronx neighborhoods: **Kingsbridge, Fordham, Allerton, and Concourse.** Please click through to deep dive into each team member's project!
+
+### FORDHAM
+_by: Jessica Sparacio_
+
+![Image](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
+
+[Link](jessicalrsparacio.github.io/fordproj)
+
+
+
