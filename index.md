@@ -4,7 +4,7 @@
 > Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. 
 
 
-## **_Our Project_**
+<h2 style="color: #0366d6; font-style: italic;">## **_Our Project_**</h2>
 
 The aim of our project was to explore Airbnb data in the Bronx to better understand the nature of short-term rentals in NYC. We planned to compare the Airbnb statistics in our Borough with the statistics in all Airbnb's across NYC, as well as explore four specific Bronx neighborhoods. 
 
@@ -42,7 +42,7 @@ Min: 21
 
 Now that we had the preliminary price information, we wanted to visualize this data we had collected. We decided that it might be interesting to graph the mean price for each borough in NYC, each neighborhood in the Bronx, and finally each of our four neighborhoods.
 
-<h4 style="color: #0366d6; font-style: italic;">1. Visualizing Mean Price</h4>
+1. Visualizing Mean Price
 
 We first made bar graphs comparing the mean price of Airbnb's across New York City's five boroughs, in all the bronx neighborhoods, and in our four specific neighborhoods for our project. This data shows us that our four neighborhoods are quite similar in terms of mean price, but in comparison to the rest of the Bronx neighborhoods, our average prices fall on the shorter side.
 
@@ -71,14 +71,14 @@ These scatter plots show price distribution versus the host listings count for t
   ![Scatter Plot of Price Distribution](bronx_pricev.calculated_host_listings_count.png){:height="45%" width="45%"}
   ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png){:height="45%" width="45%"}
     
-<span style="color: #0366d6;">Minimum Nights _vs._ Price</span>
+Minimum Nights _vs._ Price
   
 Our other two scatter plots shows the distribution between price and minimum nights offered, for the Bronx neighborhoods and our four neighborhoods. Our data showed that most of the airbnb locations in both our four neighborhoods and in the Bronx in general tend to stay within $200 dollars in price and about a week for minimum nights.
   
   ![Scatter Plot of Minimum Nights Bronx](PriceVsMinNightsScatterplot.png){:height="45%" width="45%"}
   ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="45%" width="45%"}
   
-<span style="color: #0366d6;">Room Type _vs._ Price</span>
+Room Type _vs._ Price
   
 Finally, we also decided to make pie charts to compare the number of room types available in all Bronx neighborhoods and our individual neighborhoods.
 
@@ -86,34 +86,34 @@ Finally, we also decided to make pie charts to compare the number of room types 
   ![Room Types Pie Chart My Bronx](roomTypesMB.png){:height="45%" width="45%"}
 
 
-## **_The Breakdown_**
+<h2 style="color: #0366d6; font-style: italic;">The Breakdown</h2>
 
 The Bronx is an incredible borough on it's own, but a borough is really only as much as the sum of its parts! Each member of our team explored the statistics of Airbnb in four individual Bronx neighborhoods: **Kingsbridge, Fordham, Allerton, and Concourse.** Please click through to deep dive into each team member's project!
 
 
 ### FORDHAM 
-<span style="color: #0366d6; font-style: italic;">by: Jessica Sparacio</span> 
+by: Jessica Sparacio 
 
 ![A bustling intersection with views of storefronts, the elevated subway, and crowds. ](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
 
 [Click here to learn more about Fordham!](https://jessicalrsparacio.github.io/fordhamproj)
 
 ### KINGSBRIDGE
-<span style="color: #0366d6; font-style: italic;">by: Sowjanya Sritharasarma</span>
+by: Sowjanya Sritharasarma
 
 ![A giant, castle-like building which takes up the entire block, next to a nearly-empty street, with parked cars.](KingsbridgeArmoryBetter.jpg)
 
 [Click here to learn more about Kingsbridge!](https://sowjan95.github.io/kingsbridge/)
 
 ### CONCOURSE
-<span style="color: #0366d6; font-style: italic;">by: Shayaan Mohammed</span>
+by: Shayaan Mohammed
 
 ![A giant, Pantheon-like court bulding standing alone on a grassy lawn.](concourse.jpg)
 
 [Click here to learn more about Concourse!](https://shayaan1234.github.io/Concourse/)
 
 ### ALLERTON
-<span style="color: #0366d6; font-style: italic;">by: Jason Wu</span>
+by: Jason Wu
 
 ![A housing development with views of residents, a group of apartment buildings, grassy lawns, and trees.](allertonforreal.jpg)
 
