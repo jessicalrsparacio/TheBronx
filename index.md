@@ -43,20 +43,18 @@ Now that we had the preliminary price information, we wanted to visualize this d
 
 _1. Visualizing Mean Price_
 
-This graph compares the mean price of Airbnb's across New York City's five boroughs.
-![Mean Price of All Boroughs](meanPriceBoroughs.png){:height="42%" width="42%"} 
+We first made bar graphs comparing the mean price of Airbnb's across New York City's five boroughs, in all the bronx neighborhoods, and in our four specific neighborhoods for our project. This data shows us that our four neighborhoods are quite similar in terms of mean price, but in comparison to the rest of the Bronx neighborhoods, our average prices fall on the shorter side.
 
-This graph compares the mean prices of the 4 Bronx neighborhoods for our project. This data shows us that our neighborhoods are quite similar in terms of mean price. 
-![Mean Price of Our Bronx Neighborhoods](meanPriceMyBronxNeighborhoods.png){:height="42%" width="42%"}
-
-This graph compares the mean prices of all Airbnb's in negihborhoods throughout the Bronx. Our 4 neighborhoods are highlighted in the graph. The Bronx graph shows us that our four neighborhoods, while not the smallest bars on the graph, are still smaller than many of the other neighborhoods that they are being compared to. 
-![Mean Price of All Bronx Neighborhoods](meanPriceBronxNeighborhoods.png){:height="60%" width="60%"} 
+![Mean Price of All Boroughs](meanPriceBoroughs.png){:height="45%" width="45%"} 
+![Mean Price of Our Bronx Neighborhoods](meanPriceMyBronxNeighborhoods.png){:height="45%" width="45%"} 
+![Mean Price of All Bronx Neighborhoods](meanPriceBronxNeighborhoods.png){:height="45%" width="45%"} 
 
 _2. Price Distribution Exploration_
 
+We then decided comparing mean prices was too simplistic. So, we used box plots in order to compare the prices in terms of medians and quartiles between Airbnb's in all New York City negihborhoods, all Bronx neighborhoods, and our four neighborhoods.
+
 ![Box Plots of Price Distribution](3PriceBoxplotsNOZEROS.png){:height="60%" width="60%"} 
 
-To properly compare the data, we used box plots in order to compare the prices in terms of medians and quartiles between Airbnb's in New York City negihborhoods, Bronx neighborhoods, and our 4 neighborhoods.
 _3. Correlational Exploration_
 
 > After finding that there were some obvious distributional trends, we wanted to go a step
@@ -65,24 +63,28 @@ prices in the Bronx were generally lower, but _**why?**_
 
   - Number of Host's Other listings _vs._ Price
   
-  These plots show the distribution of the data, as well as the minimum, maximum, and median values. This information is more useful because the median value is calculated in spite of the outlier prices.
+We also graphed scatter plots to show the distribution of the data, as well as the minimum, maximum, and median values. This information is more useful because the median value is calculated in spite of the outlier prices.
+
+These scatter plots show price distribution versus the host listings count for the Bronx as a whole, and for our four neighborhoods. The trend for both distributions seems to indicate that the fewer the  listings a host has, the more expensive the airbnb will be.
   
-  The graph shows a scatter plot of the price distribution versus the host listings count for the Bronx as a whole. The trend seems to indicate that the fewer the  listings a host has, the more expensive the airbnb will be.
   ![Scatter Plot of Price Distribution](bronx_pricev.calculated_host_listings_count.png){:height="48%" width="48%"}
-  
-  The graph shows a scatter plot of the price distribution versus the host listings for our 4 Bronx neighborhoods. The trend, like the Bronx grpah, seems to indicate that the fewer the  listings a host has, the more expensive the airbnb will be.
   ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png){:height="48%" width="48%"}
     
   - Minimum Nights _vs._ Price
   
-  Both graphs are very similar which means our 4 neighborhoods align with the Bronx dataset. Many AirBnb's are usually offered to guests for a month or less with prices usually ranging around $50-$200 for the Bronx and our neighborhoods.
+Our other two scatter plots shows the distribution between price and minimum nights offered, for the Bronx neighborhoods and our four neighborhoods. Our data showed that most of the airbnb locations in both our four neighborhoods and in the Bronx in general tend to stay within $200 dollars in price and about a week for minimum nights.
   
-  ![Scatter Plot of Minimum Nights Bronx](PriceVsMinNightsScatterplot.png){:height="48%" width="48%"}
-  ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="48%" width="48%"}
+  ![Scatter Plot of Minimum Nights Bronx](PriceVsMinNightsScatterplot.png){:height="45%" width="45%"}
+  ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="45%" width="45%"}
   
   - Room Type _vs._ Price
   
- From the data, we can see that private rooms are the most abundantly available room type, while the shared room is the most rare, as can be seen by there only being 7 shared rooms available in all of our four neighborhoods. However, we were surprised to find that, while the mean, minimum, and 25th, 50th, and 75th percentiles for price statistics stayed relatively similar for each room_type in both bronx and my_bronx, the maximum price for each room type drastically changed between the bronx and my_bronx neighborhoods. Our neighborhoods did not have prices over $450.00, with only $130 max for shared rooms, the max price went over $1000 when using the entire Bronx data.
+Finally, we also decided to make pie charts to compare the number of room types available in all Bronx neighborhoods and our individual neighborhoods.
+
+  ![Room Types Pie Chart Bronx](roomTypesB.png){:height="45%" width="45%"}
+  ![Room Types Pie Chart My Bronx](roomTypesMB.png){:height="45%" width="45%"}
+  
+From the data, we can see that private rooms are the most abundantly available room type, while the shared room is the most rare, as can be seen by there only being 7 shared rooms available in all of our four neighborhoods. However, we were surprised to find that, while the mean, minimum, and 25th, 50th, and 75th percentiles for price statistics stayed relatively similar for each room_type in both bronx and my_bronx, the maximum price for each room type drastically changed between the bronx and my_bronx neighborhoods. Our neighborhoods did not have prices over $450.00, with only $130 max for shared rooms, the max price went over $1000 when using the entire Bronx data.
 
 
 ## **_The Breakdown_**
