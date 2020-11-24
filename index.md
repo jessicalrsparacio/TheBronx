@@ -70,7 +70,8 @@ prices in the Bronx were generally lower, but _**why?**_
   ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="45%" width="45%"}
   
   - Room Type _vs._ Price
-
+  ![Pie Chart of Room Types Bronx](roomTypesB){:height="45%" width="45%"}
+  ![Pie Chart of Room Types My Bronx](roomTypesMB){:height="45%" width="45%"}
 
 ## **_The Breakdown_**
 
