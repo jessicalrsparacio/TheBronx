@@ -1,4 +1,4 @@
-<h1 style="color: blue">  Welcome to The Bronx </h1>
+<h1 style="color: blue;">  Welcome to The Bronx </h1>
 
 > The Bronx. Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. 
 
@@ -58,7 +58,7 @@ FORDHAM
 
 </h3> </b> </div> 
 
-<div align="center"> <i> <h6> by: Jessica Sparacio </h6> </i> </div> 
+<div align="center"> <i> <h6 style="font-weight: 100"> by: Jessica Sparacio </h6> </i> </div> 
 
 ![A bustling intersection with views of storefronts, the elevated subway, and crowds. ](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
 
