@@ -49,7 +49,7 @@ _1. Visualizing Mean Price_
 
 _2. Price Distribution Exploration_
 
-![Box Plots of Price Distribution](3PriceBoxplotsNOZEROS.png)
+![Box Plots of Price Distribution](3PriceBoxplotsNOZEROS.png){:height="60%" width="60%"} 
 
 _3. Correlational Exploration_
 
