@@ -62,7 +62,7 @@ We then decided comparing mean prices was too simplistic. So, we used box plots 
 further and see if any other factors had astrong correlation with the price ofan Airbnb. We knew that
 prices in the Bronx were generally lower, but _**why?**_
 
-Number of Host's Other listings _vs._ Price
+_Number of Host's Other listings_ vs. _Price_
   
 We also graphed scatter plots to show the distribution of the data, as well as the minimum, maximum, and median values. This information is more useful because the median value is calculated in spite of the outlier prices.
 
@@ -71,14 +71,14 @@ These scatter plots show price distribution versus the host listings count for t
   ![Scatter Plot of Price Distribution](bronx_pricev.calculated_host_listings_count.png){:height="45%" width="45%"}
   ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png){:height="45%" width="45%"}
     
-Minimum Nights _vs._ Price
+_Minimum Nights_ vs. _Price_
   
 Our other two scatter plots shows the distribution between price and minimum nights offered, for the Bronx neighborhoods and our four neighborhoods. Our data showed that most of the airbnb locations in both our four neighborhoods and in the Bronx in general tend to stay within $200 dollars in price and about a week for minimum nights.
   
   ![Scatter Plot of Minimum Nights Bronx](PriceVsMinNightsScatterplot.png){:height="45%" width="45%"}
   ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="45%" width="45%"}
   
-Room Type _vs._ Price
+_Room Type_ vs. _Price_
   
 Finally, we also decided to make pie charts to compare the number of room types available in all Bronx neighborhoods and our individual neighborhoods.
 
