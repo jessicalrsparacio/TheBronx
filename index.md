@@ -1,5 +1,6 @@
 <h1 style="font-family: Georgia"> <p style="text-align:center;">Welcome to The Bronx!</p> </h1>
-<h3 style="text-align:center;"> <i> by Jessica Sparacio, Sowjanya Sritharasarma, Shayaan Mohammed, and Jason Wu  </i> </h3> 
+<h5 style="text-align:center;"> <i> by Jessica Sparacio, Sowjanya Sritharasarma, Shayaan Mohammed, and Jason Wu  </i> </h5> 
+
 
 > Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. 
 
