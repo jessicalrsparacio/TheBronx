@@ -78,7 +78,7 @@ _by: Sowjanya Sritharasarma_
 
 ![A giant, castle-like building which takes up the entire block, next to a nearly-empty street, with parked cars.](KingsbridgeArmoryBetter.jpg)
 
-[Click here to learn more about Kingsbridge!]()
+[Click here to learn more about Kingsbridge!](https://sowjan95.github.io/kingsbridge/)
 
 ### CONCOURSE
 _by: Shayaan Mohammed_
