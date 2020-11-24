@@ -43,10 +43,12 @@ Now that we had the preliminary price information, we wanted to visualize this d
 
 _1. Visualizing Mean Price_
 
-![Mean Price of All Boroughs](meanPriceBoroughs.png){:height="42%" width="42%"}
-![Mean Price of Our Bronx Neighborhoods](meanPriceMyBronxNeighborhoods.png){:height="42%" width="42%"} 
+![Mean Price of All Boroughs](meanPriceBoroughs.png){:height="42%" width="42%"} 
+This graph compares the mean price of Airbnb's across New York City's five boroughs.
+![Mean Price of Our Bronx Neighborhoods](meanPriceMyBronxNeighborhoods.png){:height="42%" width="42%"}
+This graph compares the mean prices of the 4 Bronx neighborhoods for our project.
 ![Mean Price of All Bronx Neighborhoods](meanPriceBronxNeighborhoods.png){:height="60%" width="60%"} 
-
+This graph comares the mean prices of all Airbnb's in negihborhoods throughout the Bronx.
 _2. Price Distribution Exploration_
 
 ![Box Plots of Price Distribution](3PriceBoxplotsNOZEROS.png){:height="60%" width="60%"} 
