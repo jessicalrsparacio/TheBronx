@@ -50,7 +50,9 @@ _1. Visualizing Mean Price_
 
 ## **_The Breakdown_**
 
-<div align="center"> The Bronx is an incredible borough on it's own, but a borough is really only as much as the sum of its parts! Each member of our team explored the statistics of Airbnb in four individual Bronx neighborhoods: **Kingsbridge, Fordham, Allerton, and Concourse.** Please click through to deep dive into each team member's project!
+The Bronx is an incredible borough on it's own, but a borough is really only as much as the sum of its parts! Each member of our team explored the statistics of Airbnb in four individual Bronx neighborhoods: **Kingsbridge, Fordham, Allerton, and Concourse.** Please click through to deep dive into each team member's project!
+
+<div align="center"> 
 
 ### FORDHAM
 _by: Jessica Sparacio_
