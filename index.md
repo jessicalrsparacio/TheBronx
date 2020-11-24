@@ -85,14 +85,14 @@ _by: Shayaan Mohammed_
 
 ![A giant, Pantheon-like court bulding standing alone on a grassy lawn.](concourse.jpg)
 
-[Click here to learn more about Concourse!]()
+[Click here to learn more about Concourse!](https://shayaan1234.github.io/Concourse/)
 
 ### ALLERTON
 _by: Jason Wu_
 
 ![A housing development with views of residents, a group of apartment buildings, grassy lawns, and trees.](allertonforreal.jpg)
 
-[Click here to learn more about Allerton!]()
+[Click here to learn more about Allerton!](https://jasonwu00.github.io/HC10-Allerton/)
 
 
 
