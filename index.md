@@ -74,7 +74,7 @@ by: Jessica Sparacio
 [Click here to learn more about Fordham!](https://jessicalrsparacio.github.io/fordhamproj)
 
 ### KINGSBRIDGE
-_by: Sowjana Sritharasarma_
+_by: Sowjanya Sritharasarma_
 
 ![A giant, castle-like building which takes up the entire block, next to a nearly-empty street, with parked cars.](KingsbridgeArmoryBetter.jpg)
 
