@@ -43,7 +43,7 @@ Now that we had the preliminary price information, we wanted to visualize this d
 
 _1. Visualizing Mean Price_
 
-![Mean Price of All Boroughs](meanPriceBoroughs.png){:height="42%" width="42%"}  
+![Mean Price of All Boroughs](meanPriceBoroughs.png){:height="42%" width="42%"}
 ![Mean Price of Our Bronx Neighborhoods](meanPriceMyBronxNeighborhoods.png){:height="42%" width="42%"} 
 ![Mean Price of All Bronx Neighborhoods](meanPriceBronxNeighborhoods.png){:height="60%" width="60%"} 
 
