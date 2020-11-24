@@ -45,7 +45,19 @@ Now that we had the preliminary price information, we wanted to visualize this d
 
 _1. Visualizing Mean Price_
 
+_2. Price Distribution Exploration_
 
+_3. Correlational Exploration_
+
+> After finding that there were some obvious distributional trends, we wanted to go a step
+further and see if any other factors had astrong correlation with the price ofan Airbnb. We knew that
+prices in the Bronx were generally lower, but _**why?**_
+
+  - Number of Host's Other listings _vs._ Price
+  
+  - Minimum Nights _vs._ Price
+  
+  - Room Type _vs._ Price
 
 
 ## **_The Breakdown_**
