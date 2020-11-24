@@ -17,7 +17,22 @@ _by: Jessica Sparacio_
 
 ![Image](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
 
-[Link](jessicalrsparacio.github.io/fordhamproj)
+[Click here to learn more about Fordham!](https://www.jessicalrsparacio.github.io/fordhamproj)
+
+### KINGSBRIDGE
+_by: Sowjana Sritharasarma_
+![Image]()
+
+### CONCOURSE
+_by: Shayaan Mohammed_
+<img src="Bronx_Courthouse_from_Joyce_Kilmer_Park.jpg" height="200px" width="400px">
+
+
+### ALLERTON
+_by: Jason Wu_
+
+
+
 
 
 
