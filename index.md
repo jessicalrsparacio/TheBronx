@@ -5,11 +5,10 @@
 
 ## **_Our Project_**
 
-<center> The aim of our project was to explore Airbnb data in the Bronx, to better understand the nature of short-term rentals in NYC. We planned to compare the Airbnb statistics in our Borough with the statistics in all Airbnb's across NYC, as well as more specifically explore four specific neighborhoods. 
+<div align="center"> The aim of our project was to explore Airbnb data in the Bronx, to better understand the nature of short-term rentals in NYC. We planned to compare the Airbnb statistics in our Borough with the statistics in all Airbnb's across NYC, as well as more specifically explore four specific neighborhoods. 
 
-We prepared three separate data-frames that we were going to compare
-throughout our project. Our first dataframe `airbnb` is the original dataset of all airbnb data for all four boroughs. Using `groupby`, we created two more sets, `bronx`, which contained the data just for all the neighborhoods in the bronx, and `my_bronx`, which contained all of the datafor our four
-specific Bronx neighborhoods. </center>
+We prepared three separate data-frames that we were going to compare throughout our project. Our first dataframe `airbnb` is the original dataset of all airbnb data for all four boroughs. Using `groupby`, we created two more sets, `bronx`, which contained the data just for all the neighborhoods in the bronx, and `my_bronx`, which contained all of the datafor our four
+specific Bronx neighborhoods. <div align="center">
 
 ### Price Matters!
 
