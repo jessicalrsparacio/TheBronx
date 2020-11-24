@@ -1,4 +1,4 @@
-<h1 style="font-family: Georgia"> <p style="text-align:center;"> Welcome to The Bronx! </p> </h1>
+<h1 style="font-family: Georgia"> <p style="text-align:center;">Welcome to The Bronx!</p> </h1>
 #### _by Jessica Sparacio, Sowjanya Sritharasarma, Shayaan Mohammed, and Jason Wu_
 
 > Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. 
