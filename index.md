@@ -59,7 +59,7 @@ prices in the Bronx were generally lower, but _**why?**_
 
   - Number of Host's Other listings _vs._ Price
   
-  ![Scatter Plot of Price Distribution]()
+  ![Scatter Plot of Price Distribution](bronx_pricev.calculated_host_listings_count.png)
   ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png)
   
   - Minimum Nights _vs._ Price
