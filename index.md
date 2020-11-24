@@ -67,8 +67,8 @@ We also graphed scatter plots to show the distribution of the data, as well as t
 
 These scatter plots show price distribution versus the host listings count for the Bronx as a whole, and for our four neighborhoods. The trend for both distributions seems to indicate that the fewer the  listings a host has, the more expensive the airbnb will be.
   
-  ![Scatter Plot of Price Distribution](bronx_pricev.calculated_host_listings_count.png){:height="48%" width="48%"}
-  ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png){:height="48%" width="48%"}
+  ![Scatter Plot of Price Distribution](bronx_pricev.calculated_host_listings_count.png){:height="45%" width="45%"}
+  ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png){:height="45%" width="45%"}
     
   - Minimum Nights _vs._ Price
   
