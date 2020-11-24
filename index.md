@@ -1,4 +1,4 @@
-# Welcome to The Bronx
+<h1 style="{color: blue}">  Welcome to The Bronx </h1>
 
 > The Bronx. Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. 
 
@@ -52,13 +52,13 @@ _1. Visualizing Mean Price_
 
 The Bronx is an incredible borough on it's own, but a borough is really only as much as the sum of its parts! Each member of our team explored the statistics of Airbnb in four individual Bronx neighborhoods: **Kingsbridge, Fordham, Allerton, and Concourse.** Please click through to deep dive into each team member's project!
 
-<div align="center"> <b>
+<div align="center"> <b> <h3>
 
 FORDHAM
 
-</b> </div> 
+</h3> </b> </div> 
 
-_by: Jessica Sparacio_
+<div align="center"> <i> <h3> by: Jessica Sparacio </h3> </i> </div> 
 
 ![A bustling intersection with views of storefronts, the elevated subway, and crowds. ](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
 
