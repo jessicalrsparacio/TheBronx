@@ -1,4 +1,4 @@
-<h1 style="font-family: Georgia"> Welcome to The Bronx! </h1>
+<h1 style="font-family: Georgia"> <p style=text-align: "center;"> Welcome to The Bronx! </p> </h1>
 #### _by Jessica Sparacio, Sowjanya Sritharasarma, Shayaan Mohammed, and Jason Wu_
 
 > Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. 
@@ -120,6 +120,6 @@ by: Jason Wu
 [Click here to learn more about Allerton!](https://jasonwu00.github.io/HC10-Allerton/)
 
 
-<h2 style="font-family: Georgia"> <i>
-  Thanks for checking out the Bronx! Come back soon! </i> </h2>
+<h2 style="font-family: Georgia"> <i> <p style=text-align: "center;">
+  Thanks for checking out the Bronx! Come back soon! </p> </i> </h2>
 
