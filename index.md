@@ -5,19 +5,17 @@
 
 ## **_Our Project_**
 
-The aim of our project was to explore Airbnb data in the Bronx, to better understand the nature of short-term rentals in NYC. We planned to compare the Airbnb statistics in our Borough with the statistics in all Airbnb's across NYC, as well as more specifically explore four specific neighborhoods. 
+The aim of our project was to explore Airbnb data in the Bronx to better understand the nature of short-term rentals in NYC. We planned to compare the Airbnb statistics in our Borough with the statistics in all Airbnb's across NYC, as well as explore four specific Bronx neighborhoods. 
 
-We prepared three separate data-frames that we were going to compare throughout our project. Our first dataframe `airbnb` is the original dataset of all airbnb data for all four boroughs. Using `groupby`, we created two more sets, `bronx`, which contained the data just for all the neighborhoods in the bronx, and `my_bronx`, which contained all of the datafor our four
-specific Bronx neighborhoods. 
+We prepared three separate data-frames that we were going to compare throughout our project. Our first dataframe `airbnb` is the original dataset of all airbnb data for all four boroughs. Using `groupby`, we created two more sets, `bronx`, which contained the data just for all the neighborhoods in the Bronx, and `my_bronx`, which contained all of the data for our four specific neighborhoods. 
 
 ### Price Matters!
 
-We decided as a group that the information about price was the most relevant when discussing airbnbs, so we wanted to approach our dataanalysis from thisangle. When considering our neighborhoods and our borough, we wanted to primarily concentrate on correlations between price
-and other factors.
+We decided as a group that the information about price was the most relevant when discussing airbnbs, so we wanted to approach our data analysis from this angle. When considering our neighborhoods and our borough, we wanted to primarily concentrate on correlations between price and other factors.
 
 ### Some statistics... 
 
-To first approach our data, we wanted to getan idea of some of the basic price statistics in our three data sets. We printed out the following:
+To first approach our data, we wanted to get an idea of some of the basic price statistics in our three data sets. We printed out the following:
 
 ```
 Number of listings in all boroughs: 48895
@@ -65,9 +63,8 @@ prices in the Bronx were generally lower, but _**why?**_
 The Bronx is an incredible borough on it's own, but a borough is really only as much as the sum of its parts! Each member of our team explored the statistics of Airbnb in four individual Bronx neighborhoods: **Kingsbridge, Fordham, Allerton, and Concourse.** Please click through to deep dive into each team member's project!
 
 
-FORDHAM
-
-by: Jessica Sparacio 
+### FORDHAM 
+_by: Jessica Sparacio_ 
 
 ![A bustling intersection with views of storefronts, the elevated subway, and crowds. ](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
 
