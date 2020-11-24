@@ -4,7 +4,7 @@
 > Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. 
 
 
-<h2 style="color: #0366d6; font-style: italic;">## **_Our Project_**</h2>
+<h2 style="color: #0366d6; font-style: italic;">Our Project</h2>
 
 The aim of our project was to explore Airbnb data in the Bronx to better understand the nature of short-term rentals in NYC. We planned to compare the Airbnb statistics in our Borough with the statistics in all Airbnb's across NYC, as well as explore four specific Bronx neighborhoods. 
 
