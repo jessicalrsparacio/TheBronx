@@ -1,8 +1,8 @@
 <h1 style="font-family: Georgia"> <p style="text-align:center;margin-bottom: 38px;">Welcome to The Bronx!</p> </h1>
 <h5 style="text-align:center;margin-top: -42px;"> <i> by Jessica Sparacio, Sowjanya Sritharasarma, Shayaan Mohammed, and Jason Wu  </i> </h5> 
 
-<blockquote style="margin-top: -42px;">
-> Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. </blockquote>
+<blockquote style="margin-top: 36px;">
+Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. </blockquote>
 
 
 <h2 style="color: #0366d6; font-style: italic;">Our Project</h2>
