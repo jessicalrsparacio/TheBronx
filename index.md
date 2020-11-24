@@ -43,16 +43,18 @@ Now that we had the preliminary price information, we wanted to visualize this d
 
 _1. Visualizing Mean Price_
 
-![Mean Price of All Boroughs](meanPriceBoroughs.png){:height="45%" width="45%"} 
 This graph compares the mean price of Airbnb's across New York City's five boroughs.
-![Mean Price of Our Bronx Neighborhoods](meanPriceMyBronxNeighborhoods.png){:height="45%" width="45%"}
+![Mean Price of All Boroughs](meanPriceBoroughs.png){:height="42%" width="42%"} 
+
 This graph compares the mean prices of the 4 Bronx neighborhoods for our project.
-![Mean Price of All Bronx Neighborhoods](meanPriceBronxNeighborhoods.png){:height="45%" width="45%"} 
-This graph comares the mean prices of all Airbnb's in negihborhoods throughout the Bronx.
+![Mean Price of Our Bronx Neighborhoods](meanPriceMyBronxNeighborhoods.png){:height="42%" width="42%"}
+
+This graph compares the mean prices of all Airbnb's in negihborhoods throughout the Bronx. Our 4 neighborhoods are highlighted in the graph.
+![Mean Price of All Bronx Neighborhoods](meanPriceBronxNeighborhoods.png){:height="60%" width="60%"} 
 _2. Price Distribution Exploration_
 
 ![Box Plots of Price Distribution](3PriceBoxplotsNOZEROS.png){:height="60%" width="60%"} 
-
+To properly compare the data, we used box plots in order to compare the prices in terms of medians and quartiles between Airbnb's in New York City negihborhoods, Bronx neighborhoods, and our 4 neighborhoods.
 _3. Correlational Exploration_
 
 > After finding that there were some obvious distributional trends, we wanted to go a step
@@ -61,17 +63,19 @@ prices in the Bronx were generally lower, but _**why?**_
 
   - Number of Host's Other listings _vs._ Price
   
-  ![Scatter Plot of Price Distribution](bronx_pricev.calculated_host_listings_count.png){:height="45%" width="45%"}
-  ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png){:height="45%" width="45%"}
+  The graph shows a scatter plot of the price distribution versus the host listings count for the Bronx as a whole. The trend seems to indicate that the fewer the  listings a host has, the more expensive the airbnb will be.
+  ![Scatter Plot of Price Distribution](bronx_pricev.calculated_host_listings_count.png){:height="48%" width="48%"}
   
+  The graph shows a scatter plot of the price distribution versus the host listings for our 4 Bronx neighborhoods. The trend, like the Bronx grpah, seems to indicate that the fewer the  listings a host has, the more expensive the airbnb will be.
+  ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png){:height="48%" width="48%"}
+    
   - Minimum Nights _vs._ Price
   
-  ![Scatter Plot of Minimum Nights Bronx](PriceVsMinNightsScatterplot.png){:height="45%" width="45%"}
-  ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="45%" width="45%"}
+  ![Scatter Plot of Minimum Nights Bronx](PriceVsMinNightsScatterplot.png){:height="48%" width="48%"}
+  ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="48%" width="48%"}
   
   - Room Type _vs._ Price
-  ![Pie Chart of Room Types Bronx](roomTypesB.png){:height="45%" width="45%"}
-  ![Pie Chart of Room Types My Bronx](roomTypesMB.png){:height="45%" width="45%"}
+
 
 ## **_The Breakdown_**
 
