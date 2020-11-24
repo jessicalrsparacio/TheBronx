@@ -120,5 +120,5 @@ by: Jason Wu
 [Click here to learn more about Allerton!](https://jasonwu00.github.io/HC10-Allerton/)
 
 
-#### _Thanks for checking out the Bronx! Come back soon!_
+## _Thanks for checking out the Bronx! Come back soon!_
 
