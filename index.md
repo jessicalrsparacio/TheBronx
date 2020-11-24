@@ -120,5 +120,6 @@ by: Jason Wu
 [Click here to learn more about Allerton!](https://jasonwu00.github.io/HC10-Allerton/)
 
 
-## _Thanks for checking out the Bronx! Come back soon!_
+<h2 style="font-family: Georgia"> <i>
+  Thanks for checking out the Bronx! Come back soon! </i> </h2>
 
