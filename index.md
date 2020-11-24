@@ -1,4 +1,4 @@
-<h1 style="font-family: Georgia"> <p style=text-align: "center;"> Welcome to The Bronx! </p> </h1>
+<h1 style="font-family: Georgia"> Welcome to The Bronx! </h1>
 #### _by Jessica Sparacio, Sowjanya Sritharasarma, Shayaan Mohammed, and Jason Wu_
 
 > Though it may be the second-to-the-smallest borough of NYC's five, the Bronx is still home to some of NYC's most diverse communities and attractions. 
@@ -79,7 +79,25 @@ Our other two scatter plots shows the distribution between price and minimum nig
   ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="45%" width="45%"}
   
 _Room Type_ vs. _Price_
-  
+
+[sentence here]
+
+```
+price stats for each room_type in bronx:
+                 count        mean         std   min   25%    50%    75%     max
+room_type                                                                       
+Entire home/apt  379.0  127.506596   95.027102  28.0  80.0  100.0  140.0  1000.0
+Private room     652.0   66.788344  107.009071   0.0  40.0   53.5   70.0  2500.0
+Shared room       60.0   59.800000  101.798871  20.0  28.0   40.0   55.5   800.0
+
+price stats for each room_type in my_bronx:
+                 count        mean        std   min   25%    50%    75%    max
+room_type                                                                     
+Entire home/apt   67.0  122.358209  69.508818  47.0  87.5  100.0  143.5  450.0
+Private room     151.0   61.132450  29.571986  21.0  40.0   55.0   75.0  200.0
+Shared room        7.0   55.571429  35.743797  22.0  33.5   55.0   57.5  130.0
+```
+
 Finally, we also decided to make pie charts to compare the number of room types available in all Bronx neighborhoods and our individual neighborhoods.
 
   ![Room Types Pie Chart Bronx](roomTypesB.png){:height="45%" width="45%"}
@@ -120,6 +138,6 @@ by: Jason Wu
 [Click here to learn more about Allerton!](https://jasonwu00.github.io/HC10-Allerton/)
 
 
-<h2 style="font-family: Georgia"> <i> <p style=text-align: "center;">
-  Thanks for checking out the Bronx! Come back soon! </p> </i> </h2>
+<h2 style="font-family: Georgia"> <i>
+  Thanks for checking out the Bronx! Come back soon! </i> </h2>
 
