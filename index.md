@@ -17,7 +17,7 @@ _by: Jessica Sparacio_
 
 ![Image](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
 
-[Link](jessicalrsparacio.github.io/fordproj)
+[Link](jessicalrsparacio.github.io/fordhamproj)
 
 
 
