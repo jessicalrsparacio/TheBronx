@@ -5,10 +5,10 @@
 
 ## **_Our Project_**
 
-<div align="center"> The aim of our project was to explore Airbnb data in the Bronx, to better understand the nature of short-term rentals in NYC. We planned to compare the Airbnb statistics in our Borough with the statistics in all Airbnb's across NYC, as well as more specifically explore four specific neighborhoods. 
+The aim of our project was to explore Airbnb data in the Bronx, to better understand the nature of short-term rentals in NYC. We planned to compare the Airbnb statistics in our Borough with the statistics in all Airbnb's across NYC, as well as more specifically explore four specific neighborhoods. 
 
 We prepared three separate data-frames that we were going to compare throughout our project. Our first dataframe `airbnb` is the original dataset of all airbnb data for all four boroughs. Using `groupby`, we created two more sets, `bronx`, which contained the data just for all the neighborhoods in the bronx, and `my_bronx`, which contained all of the datafor our four
-specific Bronx neighborhoods. <div align="center">
+specific Bronx neighborhoods. 
 
 ### Price Matters!
 
@@ -50,7 +50,7 @@ _1. Visualizing Mean Price_
 
 ## **_The Breakdown_**
 
-The Bronx is an incredible borough on it's own, but a borough is really only as much as the sum of its parts! Each member of our team explored the statistics of Airbnb in four individual Bronx neighborhoods: **Kingsbridge, Fordham, Allerton, and Concourse.** Please click through to deep dive into each team member's project!
+<div align="center"> The Bronx is an incredible borough on it's own, but a borough is really only as much as the sum of its parts! Each member of our team explored the statistics of Airbnb in four individual Bronx neighborhoods: **Kingsbridge, Fordham, Allerton, and Concourse.** Please click through to deep dive into each team member's project!
 
 ### FORDHAM
 _by: Jessica Sparacio_
@@ -76,7 +76,7 @@ _by: Jason Wu_
 ![A housing development with views of residents, a group of apartment buildings, grassy lawns, and trees.](allertonforreal.jpg)
 
 [Click here to learn more about Allerton!]()
-
+</div>
 
 
 
