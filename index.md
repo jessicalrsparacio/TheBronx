@@ -81,6 +81,8 @@ prices in the Bronx were generally lower, but _**why?**_
   ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="48%" width="48%"}
   
   - Room Type _vs._ Price
+  
+ From the data, we can see that private rooms are the most abundantly available room type, while the shared room is the most rare, as can be seen by there only being 7 shared rooms available in all of our four neighborhoods. However, we were surprised to find that, while the mean, minimum, and 25th, 50th, and 75th percentiles for price statistics stayed relatively similar for each room_type in both bronx and my_bronx, the maximum price for each room type drastically changed between the bronx and my_bronx neighborhoods. Our neighborhoods did not have prices over $450.00, with only $130 max for shared rooms, the max price went over $1000 when using the entire Bronx data.
 
 
 ## **_The Breakdown_**
