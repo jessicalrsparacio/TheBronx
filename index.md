@@ -51,9 +51,11 @@ This graph compares the mean prices of the 4 Bronx neighborhoods for our project
 
 This graph compares the mean prices of all Airbnb's in negihborhoods throughout the Bronx. Our 4 neighborhoods are highlighted in the graph. The Bronx graph shows us that our four neighborhoods, while not the smallest bars on the graph, are still smaller than many of the other neighborhoods that they are being compared to. 
 ![Mean Price of All Bronx Neighborhoods](meanPriceBronxNeighborhoods.png){:height="60%" width="60%"} 
+
 _2. Price Distribution Exploration_
 
 ![Box Plots of Price Distribution](3PriceBoxplotsNOZEROS.png){:height="60%" width="60%"} 
+
 To properly compare the data, we used box plots in order to compare the prices in terms of medians and quartiles between Airbnb's in New York City negihborhoods, Bronx neighborhoods, and our 4 neighborhoods.
 _3. Correlational Exploration_
 
@@ -72,6 +74,8 @@ prices in the Bronx were generally lower, but _**why?**_
   ![Scatter Plot of My Bronx](PriceVscalculated_host_listingsMyBronxScatterplot.png){:height="48%" width="48%"}
     
   - Minimum Nights _vs._ Price
+  
+  Both graphs are very similar which means our 4 neighborhoods align with the Bronx dataset. Many AirBnb's are usually offered to guests for a month or less with prices usually ranging around $50-$200 for the Bronx and our neighborhoods.
   
   ![Scatter Plot of Minimum Nights Bronx](PriceVsMinNightsScatterplot.png){:height="48%" width="48%"}
   ![Scatter Plot of Minimum Nights My Bronx](PriceVsMinNightsMyBronxScatterplot.png){:height="48%" width="48%"}
