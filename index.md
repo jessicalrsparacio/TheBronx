@@ -42,7 +42,7 @@ Min: 21
 
 Now that we had the preliminary price information, we wanted to visualize this data we had collected. We decided that it might be interesting to graph the mean price for each borough in NYC, each neighborhood in the Bronx, and finally each of our four neighborhoods.
 
-1. Visualizing Mean Price
+**_1. Visualizing Mean Price_**
 
 We first made bar graphs comparing the mean price of Airbnb's across New York City's five boroughs, in all the bronx neighborhoods, and in our four specific neighborhoods for our project. This data shows us that our four neighborhoods are quite similar in terms of mean price, but in comparison to the rest of the Bronx neighborhoods, our average prices fall on the shorter side.
 
