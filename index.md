@@ -15,23 +15,27 @@ The Bronx is an incredible borough on it's own, but a bourough is really only as
 ### FORDHAM
 _by: Jessica Sparacio_
 
-![Image](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
+![A bustling intersection with views of storefronts, the elevated subway, and crowds. ](fordham-bronx-nyc-molly-flores_x9a0041__large.jpg)
 
 [Click here to learn more about Fordham!](https://www.jessicalrsparacio.github.io/fordhamproj)
 
 ### KINGSBRIDGE
 _by: Sowjana Sritharasarma_
-![Image]()
+![A giant, castle-like building which takes up the entire block, next to a nearly-empty street, with parked cars.](KingsbridgeArmoryBetter.jpg)
+
+[Click here to learn more about Kingsbridge!]()
 
 ### CONCOURSE
 _by: Shayaan Mohammed_
-<img src="Bronx_Courthouse_from_Joyce_Kilmer_Park.jpg" height="200px" width="400px">
+![A giant, Pantheon-like court bulding standing alone on a grassy lawn.](concourse.jpg)
 
+[Click here to learn more about Concourse!]()
 
 ### ALLERTON
 _by: Jason Wu_
+![A housing development with views of residents, a group of apartment buildings, grassy lawns, and trees.](allertonforreal.jpg)
 
-
+[Click here to learn more about Allerton!]()
 
 
 
