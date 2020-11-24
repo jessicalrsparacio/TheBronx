@@ -81,7 +81,7 @@ Our other two scatter plots shows the distribution between price and minimum nig
   
 _Room Type_ vs. _Price_
 
-[sentence here]
+Finally, we also decided to compare prices to the types of rooms that the airbnb locations offered in our neighborhoods and in the Bronx. We first printed the price statistics for each room type, and then made pie charts to to compare the number of room types available in our two data sets.
 
 ```
 price stats for each room_type in bronx:
@@ -98,8 +98,6 @@ Entire home/apt   67.0  122.358209  69.508818  47.0  87.5  100.0  143.5  450.0
 Private room     151.0   61.132450  29.571986  21.0  40.0   55.0   75.0  200.0
 Shared room        7.0   55.571429  35.743797  22.0  33.5   55.0   57.5  130.0
 ```
-
-Finally, we also decided to make pie charts to compare the number of room types available in all Bronx neighborhoods and our individual neighborhoods.
 
   ![Room Types Pie Chart Bronx](roomTypesB.png){:height="45%" width="45%"}
   ![Room Types Pie Chart My Bronx](roomTypesMB.png){:height="45%" width="45%"}
